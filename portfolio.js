@@ -99,6 +99,10 @@ export const skillsSection = {
 					skillName: "Github",
 					fontAwesomeClassname: "akar-icons:github-fill",
 				},
+				{
+					skillName: "MongoDB",
+					fontAwesomeClassname: "logos:mongodb"
+				}
 				
 			],
 		},
@@ -156,7 +160,7 @@ export const projects = [
 	{
 		name: "Hand Detection, Cursor Controller",
 		desc: "The Hand detection program will detect hands from the webcam.The cursor controller program will give functionality to the user to control the cursor using the tip of the index finger.",
-		link: "https://shopaza.herokuapp.com/",
+		link: "",
 	},
 ];
 
