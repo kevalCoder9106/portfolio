@@ -160,8 +160,13 @@ export const projects = [
 	{
 		name: "Hand Detection, Cursor Controller",
 		desc: "The Hand detection program will detect hands from the webcam.The cursor controller program will give functionality to the user to control the cursor using the tip of the index finger.",
-		link: "",
+		link: "https://github.com/kevalCoder9106/hand-detection-in-python",
 	},
+	{
+		name: "Sleep tracker",
+		desc: "So many people aren't aware about how many hours they sleep, so i've build this web-app for people who want to track their sleep time. This web-app basically tracks how many hours you have slept per day. And will show a graph and average amount of sleep you take everday.",
+		link: "https://sleep-tracker-drab.vercel.app/"
+	}
 ];
 
 export const feedbacks = [
