@@ -32,11 +32,11 @@ export const skillsSection = {
 			lottieAnimationFile: "/lottie/skills/fullstack.json", // Path of Lottie Animation JSON File
 			skills: [
 				emoji(
-					"⚡ Building responsive Single-Page-Apps (SPA) in React.js"
+					"⚡ Building responsive web apps in React.js"
 				),
-				emoji("⚡ Building responsive websites using Next.js"),
+				emoji("⚡ Building high performance server in Express.js"),
 				emoji(
-					"⚡ Building Node.js and Express.js APIs"
+					"⚡ Experice in MongoDB and MySQL"
 				),
 			],
 			softwareSkills: [
@@ -112,15 +112,15 @@ export const skillsSection = {
 export const SkillBars = [
 	{
 		Stack: "Frontend/Design", //Insert stack or technology you have experience in
-		progressPercentage: "90", //Insert relative proficiency in percentage
+		progressPercentage: "70", //Insert relative proficiency in percentage
 	},
 	{
 		Stack: "Backend",
-		progressPercentage: "70",
+		progressPercentage: "90",
 	},
 	{
 		Stack: "Programming",
-		progressPercentage: "60",
+		progressPercentage: "75",
 	},
 ];
 
